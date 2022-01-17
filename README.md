@@ -2,4 +2,5 @@
 Metaboros program index
 
 # Guides
-[Всё о ГитХабе и настройке репозиториев](./Guides/README.md)
++ [Всё о GitHub](./Guides/GitHub.md)
++ [Настройки репозиториев](./Guides/RepoSettings.md)
