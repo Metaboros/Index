@@ -1,6 +1,6 @@
 # Index
 Metaboros program index
 
-# Guides
+### Guides
 + [Всё о GitHub](./Guides/GitHub.md)
-+ [Настройки репозиториев](./Guides/RepoSettings.md)
++ [Настройка репозиториев](./Guides/RepoSettings.md)
